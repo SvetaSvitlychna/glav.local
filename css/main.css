@@ -1,0 +1,47 @@
+body {
+    background-color: #f5fcfb ;
+    font-family: "Arial",sans-serif;
+    line-height: 24px;
+    max-width: 1280px;
+    position: absolute;
+    /* margin: 0 15%; */
+    left: 296px;
+    right: 0;
+}
+.toptitle {font-size: 23px;
+    color: #0D68A3;
+
+ }
+
+ul.smile {
+    list-style: none;
+    margin-left: 0;
+    margin-bottom: 18px;
+}
+
+ul.smile li {
+        background-image: url(https://lumenis.com.ua/templates/it_political2/images/stories/ok3.png);
+    background-repeat: no-repeat;
+    padding-left: 35px;
+    background-position: 0 center;
+    text-align: left;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.expert-wrap {
+    display: flex;
+    padding: 16px;
+    background-color: rgba(142,205,246,0.2);
+    border-radius:7px;
+    margin-bottom: 18px;
+    
+    
+}
+h2 {
+        font-size: 22px !important;
+    border-bottom: 3px double #0d68a3 !important;
+    position: relative !important;
+    text-transform: uppercase !important;
+    text-align: center !important;
+
+}
